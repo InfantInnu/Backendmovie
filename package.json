@@ -19,6 +19,6 @@
     
   },
   "devDependencies":{
-    "nodemo":"^2.0.16"
+    "nodemon":"^2.0.16"
   }
 }
